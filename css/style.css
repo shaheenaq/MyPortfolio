@@ -1,0 +1,53 @@
+body {
+background-color:white;
+background-image:
+radial-gradient(aliceblue 9px, transparent 10px),        
+repeating-radial-gradient(aliceblue 0, aliceblue 4px, transparent 5px, transparent 20px, aliceblue 21px, aliceblue 25px, transparent 26px, transparent 50px);    
+background-size: 30px 30px, 90px 90px; 
+background-position: 0 0;
+
+}
+
+#name {
+	
+	font-weight: bold;
+}
+#position{
+	font-style: italic;
+	font-weight: normal;
+}
+
+h5{
+	font-style: italic;
+	font-weight: bold;
+}
+#messageme {
+	font-style: italic;
+	font-weight: normal;
+}
+i {color: black;}
+
+#p-pic {
+	height: 200px;
+	
+}
+
+nav ul a {
+	color: black;
+}
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating){
+	color: blue;
+}
+#second-part{
+
+}
+
+	
+.card .card-image .card-title{
+	
+	text-align: right;
+}
+.card-title{
+	font-family: 'Cabin', sans-serif;
+	
+}
